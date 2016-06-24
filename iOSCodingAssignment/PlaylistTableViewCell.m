@@ -28,7 +28,6 @@
                     strongSelf.titleLabel.text = item.title;
                     strongSelf.subtitleLabel.text = item.subtitle;
                     strongSelf.thumbImage.image = image;
-                 
                 });
             }
         }

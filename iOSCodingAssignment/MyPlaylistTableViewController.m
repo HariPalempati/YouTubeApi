@@ -7,7 +7,6 @@
 //
 
 #import "MyPlaylistTableViewController.h"
-
 #import "MyPlaylistDataRequestor.h"
 #import "PlaylistTableViewCell.h"
 #import "PlayListEntry.h"
@@ -17,9 +16,11 @@ static NSString * const PlaylistURLString       =  @"https://www.googleapis.com/
 CGFloat const cellHeight                        =  125.0f;
 
 @interface MyPlaylistTableViewController ()
+
 @property (strong, nonatomic) MyPlaylistDataRequestor *requestor;
 @property (strong, nonatomic) NSArray *tableViewItems;
 @property (strong, nonatomic) UIActivityIndicatorView *activityIndicator;
+
 @end
 
 @implementation MyPlaylistTableViewController

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2F8B2CB71F26D00D2D17C746834AAA3B640942B8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0E0CB6F17C6F2E7146FE0101893C568D7F7F3963" : 0,
+    "2F8B2CB71F26D00D2D17C746834AAA3B640942B8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9CF72FFD-B95C-4CCE-8CCA-7C86B26EAFD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0E0CB6F17C6F2E7146FE0101893C568D7F7F3963" : "iOSCodingAssignment",
+    "2F8B2CB71F26D00D2D17C746834AAA3B640942B8" : "YouTubeApi\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSCodingAssignment",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSCodingAssignment.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/sandeepankam\/youtubeapicoding-assignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E0CB6F17C6F2E7146FE0101893C568D7F7F3963"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HariPalempati\/YouTubeApi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F8B2CB71F26D00D2D17C746834AAA3B640942B8"
+    }
+  ]
+}
